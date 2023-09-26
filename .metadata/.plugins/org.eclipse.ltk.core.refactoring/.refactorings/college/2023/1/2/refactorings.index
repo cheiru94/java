@@ -1,0 +1,46 @@
+1673145435102	Rename type 'test1'
+1673145449341	Rename type 'initialization'
+1673145453108	Move compilation unit
+1673145501763	Rename type 'test3'
+1673145637155	Move compilation unit
+1673145655401	Rename resource 'asdf.txt'
+1673145743256	Delete element
+1673145757779	Rename type 'test2'
+1673145807455	Rename type 'test4'
+1673147898590	Rename type 'test1'
+1673151808621	Rename local variable 'i'
+1673154285252	Rename local variable 'i'
+1673154289161	Rename local variable 'j'
+1673162093455	Rename type 'betty'
+1673162125526	Rename type 'TEST_1'
+1673162180167	Rename type 'test_Switch'
+1673162184153	Move compilation unit
+1673230049409	Rename type 'Ground'
+1673230059026	Rename type 'gUARD'
+1673276885570	Delete element
+1673282461540	Rename type 'TEST5'
+1673282466228	Move compilation unit
+1673282504786	Rename type 'TEST3'
+1673282510227	Move compilation unit
+1673282554215	Rename compilation unit 'TEST4.java'
+1673282564616	Move compilation unit
+1673316108357	Rename type 'test1'
+1673316126511	Delete element
+1673325858375	Move compilation unit
+1673327332732	Rename method 'namae'
+1673327453677	Rename method 'namae'
+1673327458080	Rename local variable 'namae'
+1673327466575	Rename method 'namae'
+1673327473095	Rename local variable 'namae'
+1673328907819	Rename method 'last_Name'
+1673329166611	Rename local variable 'namae'
+1673486696172	Delete element
+1673486740861	Rename type 'TEST_2'
+1673486745615	Move compilation unit
+1673487987507	Rename type 'TEST_4'
+1673488701950	Move compilation unit
+1673488715326	Move compilation unit
+1673503824787	Rename type 'TEST_3'
+1673503831035	Move compilation unit
+1673504020885	Rename compilation unit 'TEST2.java'
+1673504023885	Move compilation unit

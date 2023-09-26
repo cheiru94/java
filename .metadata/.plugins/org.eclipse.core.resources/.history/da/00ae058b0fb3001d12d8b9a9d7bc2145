@@ -1,0 +1,18 @@
+package self_Test;
+
+class Betty {
+	String name = "bae";
+	String shcool ="yungzin"; 
+	int age = 23;
+	
+}
+
+public class Alpha {
+
+	public static void main(String[] args) {
+		
+		System.out.println("111");
+		
+	}
+
+}

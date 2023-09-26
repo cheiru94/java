@@ -1,0 +1,5 @@
+breakpointIndication=true
+breakpointIndicationColor=255,255,0
+eclipse.preferences.version=1
+fullcoverage_stylePreferences=NONE
+fullcoverage_text=false

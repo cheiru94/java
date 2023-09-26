@@ -1,0 +1,36 @@
+package test;
+
+class Terran {
+    void prtSMode() {}
+}
+
+class Scv extends Terran {
+    int mineral = 20;
+		void prtSMode() {
+        System.out.println(mineral);
+		}
+
+}
+
+class Marine extends Terran {
+    boolean sPack = false;
+		void prtSMode() {
+        System.out.println(sPack);
+		}
+}
+
+public class TEST3 {
+
+	public static void main(String[] args) {
+	
+		Terran [] unitList = new Terran [200];
+
+		unitList[0] = new Scv();
+		unitList[1] = new Marine();
+		
+		unitList[0].prtSMode();
+		unitList[1].prtSMode();
+
+	}
+
+}
